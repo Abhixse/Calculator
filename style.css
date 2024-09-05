@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.mx-auto {
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+}
+
+.flex-col {
+    flex-direction: column;
+}
+.item-center {
+    align-items: center;
+    justify-content:center ;
+}
+
+
+
+
+
+
+
+
+
+
+
+.button {
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid #000000ab;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 60px;
+}
+.row {
+    margin: 8px 0; 
+}
+
+.row input {
+    font-size: 20px;
+    margin: 0;
+    padding: 10px 10px;
+}
+.container {
+    border: 1px solid black;
+    padding: 0;
+}
